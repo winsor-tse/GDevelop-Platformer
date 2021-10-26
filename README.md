@@ -1,7 +1,7 @@
 # GDevelop-Platformer
 This Game was used using the Gdevelop platform.
 
-Gdevelop uses loops, event handlers, entity handling, and frame by frame enitity movement.
+Gdevelop uses loops, event handlers, entity handling, and frame by frame enitity movement. ALL pictures used in the game is in the repository.
 
 Development of the Game:
 ![gdevelop 1](https://user-images.githubusercontent.com/89112285/138921530-8abcdad7-93ea-45e6-8055-8e4d6e33509b.PNG)
