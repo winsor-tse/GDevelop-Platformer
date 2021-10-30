@@ -1,5 +1,7 @@
 # Ninja GDevelop-Platformer
 This Game was used using the Gdevelop platform.
+The link below is the game fully functional:
+https://games.gdevelop-app.com/game-3c7a8aaf-287c-4ec9-84f2-36fdc099b160/index.html
 
 Gdevelop uses loops, event handlers, entity handling, and frame by frame enitity movement. ALL pictures used in the game is in the repository.
 
@@ -15,5 +17,3 @@ Gdevelop uses loops, event handlers, entity handling, and frame by frame enitity
 ![image](https://user-images.githubusercontent.com/89112285/138921261-442ed031-0969-4f0a-a734-041afb33286a.png)
 
 
-The link below is the game fully functional:
-https://games.gdevelop-app.com/game-3c7a8aaf-287c-4ec9-84f2-36fdc099b160/index.html
